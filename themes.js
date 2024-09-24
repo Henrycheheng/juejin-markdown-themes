@@ -192,7 +192,7 @@ const themes = {
     owner: 'Henrycheheng',
     repo: 'juejin-markdown-theme-koi',
     path: 'koi.css',
-    ref: 'a940ce',
+    ref: 'd28a06b',
     highlight: 'base16/tomorrow-night',
   },
   'yu': {
