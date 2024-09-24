@@ -191,8 +191,8 @@ const themes = {
   'koi': {
     owner: 'Henrycheheng',
     repo: 'juejin-markdown-theme-koi',
-    path: 'koi.css',
-    ref: 'd28a06b',
+    path: 'koi.less',
+    ref: 'ca08db0',
     highlight: 'base16/tomorrow-night',
   },
   'yu': {
